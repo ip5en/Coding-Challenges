@@ -1,0 +1,16 @@
+# Coding Challenges — Solutions by ip5en
+
+A simple, lightweight layout for storing solved programming challenges.
+
+How this repo is organized
+- `challenges/` — each challenge has its own folder (see below)
+- `challenges/<YYYY-MM-DD>-<slug>/README.md` — problem statement + metadata
+- `challenges/<YYYY-MM-DD>-<slug>/<language>/solution.<ext>` — solution file (one or more)
+- `challenges/<YYYY-MM-DD>-<slug>/tests/` — optional tests for CI / local verification
+
+Quick start
+1. Create a folder under `challenges/` named `<YYYY-MM-DD>-<short-slug>` (e.g. `2025-12-11-two-sum`).
+2. Add `README.md` with title, source link, short description and metadata.
+3. Add solution files in language subfolders (e.g., `python/solution.py`).
+4. Optionally add tests in `tests/` so others (and CI) can verify correctness.
+
