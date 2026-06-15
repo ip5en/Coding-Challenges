@@ -8,7 +8,6 @@ tags:
   - patterns
 languages:
   - java
-time_spent: 10m
 ---
 
 Consider a staircase of size n=6:
