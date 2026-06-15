@@ -8,7 +8,6 @@ tags:
   - big integers
 languages:
   - java
-time_spent: 10m
 ---
 
 You will be given a number n, and you need to find and print the factorial of n.
