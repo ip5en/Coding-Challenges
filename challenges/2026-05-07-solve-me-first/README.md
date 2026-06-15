@@ -7,7 +7,6 @@ tags:
   - arithmetic
 languages:
   - java
-time_spent: 5m
 ---
 
 Complete the function `solveMeFirst` to compute the sum of two integers.
