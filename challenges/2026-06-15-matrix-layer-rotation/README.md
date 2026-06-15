@@ -8,7 +8,6 @@ tags:
   - layer rotation
 languages:
   - java
-time_spent: 20m
 ---
 
 Rotate the elements of a matrix layer by layer in a counterclockwise direction.
