@@ -7,7 +7,6 @@ tags:
   - loops
 languages:
   - java
-time_spent: 5m
 ---
 
 Given an array of integers, find the sum of the array.
