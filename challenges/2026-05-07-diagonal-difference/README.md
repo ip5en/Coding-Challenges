@@ -8,7 +8,6 @@ tags:
   - matrix
 languages:
   - java
-time_spent: 10m
 ---
 
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
