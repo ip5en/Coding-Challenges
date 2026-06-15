@@ -8,7 +8,6 @@ tags:
   - big integers
 languages:
   - java
-time_spent: 5m
 ---
 
 In this problem, you will need to add up some very large numbers. Create a function that returns the sum of an array of long integers.
